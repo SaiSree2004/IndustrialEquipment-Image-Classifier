@@ -1,0 +1,1 @@
+# IndustrialEquipment-Image-Classifier
